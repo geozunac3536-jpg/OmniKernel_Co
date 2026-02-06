@@ -227,4 +227,4 @@ if st.button("Analizar"):
             mime="application/json"
         )
     else:
-        st.warning("Por favor, introduce un prompt.")iKernel_Co
+        st.warning("Por favor, introduce un prompt.")
